@@ -6,7 +6,7 @@
 A reusable component to upload files(images/txt/pdf) on server.
 
 # Demo
-You may want to have a look at the demo : https://react-c8qcqm.stackblitz.io
+You may want to have a look at the demo : COMING SOON
 
 # Steps to start the application locally
 1. Clone the application
